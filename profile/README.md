@@ -1,8 +1,6 @@
 # 🚀 F.L.P.W Games Industries
 > **L'innovation ludique à l'état pur.**
 
-![F.L.P.W Header](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=F.L.P.W%20Games%20Industries&fontSize=60&animation=fadeIn&fontAlignY=35)
-
 ## 🧪 À propos de nous
 Fondée en **2026**, **F.L.P.W Games Industries** n'est pas qu'une simple startup : c'est un laboratoire d'idées où la technologie de pointe rencontre le divertissement pur. Notre mission est claire : **redéfinir les standards du jeu vidéo indépendant.**
 
